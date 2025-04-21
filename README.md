@@ -1,4 +1,4 @@
-# 📱🛡️ Smishing Detection via Tree-Based NLP and Metadata Modeling  
+# 📱🛡️ Tree-Based Detection of Malicious SMS Using NLP Features and Metadata
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)  
 ![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange)  
 ![NLP](https://img.shields.io/badge/NLP-Bag%20of%20Words-green)  
